@@ -14,5 +14,14 @@ def fish_breath(stuff, **kwarglist):
   except YoMommaCallin:
     return n+gohomeyabigbaby
 ```
+A Checklist, a la Toad
+- [ ] Wake up
+- [ ] get paper
+- [ ] get pencil
+- [ ] sit down
+- [ ] make a list
+- [ ] finish list
+- [ ] have tea
+
 here is a nice pic of a kitty
 ![Dope Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
