@@ -4,7 +4,8 @@
 ### a sign right 'bove the door
 ## said please don't sit on the floor
 ### so he carefully sat on the ceiling
-``` def fish_breath(stuff, **kwarglist):
+```
+def fish_breath(stuff, **kwarglist):
   jibbityBibbity = asdf.thunk(joobif)
   dwell->stumpy
   sham_clump && try:
